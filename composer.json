@@ -1,0 +1,15 @@
+{
+    "name": "rocketgenius/gravityforms-survey",
+    "description": "Survey Add-on for Gravity Forms",
+    "type": "wordpress-plugin",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Zlatko Zlatev",
+            "email": "zlatko@ralev.com"
+        }
+    ],
+    "require" : {
+      "composer/installers": "~1.0"
+    }
+}
